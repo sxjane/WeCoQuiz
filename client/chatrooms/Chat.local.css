@@ -1,0 +1,78 @@
+.msg-color{
+    background-color: #e9ebee;
+}
+.msg-expert-color{
+    background-color:#b2dfdb;
+}
+
+.msg-response{
+    border-radius: 10% / 50%;
+    padding-top:5px;
+    padding-right:8px;
+    padding-bottom:6px;
+    padding-left:8px;
+    max-width:215px;
+    text-align:left;
+    font-size:12px;
+}
+.msg-response p{
+    margin:0
+}
+.msg-header{
+    margin:0;
+    font-size: 10px;
+    text-align: left;
+    color:#2962ff;
+}
+.msg-header p{
+    margin:0;
+}
+
+.msg-notify {
+    font-size: 10px;
+    text-align: center;
+    color: grey;
+    width: 343px;
+}
+.msg-notify p{
+    margin: 0;
+}
+.rcw-header {
+    text-align:left !important;
+    padding:0px !important;
+    height:40px !important;
+}
+
+.rcw-title{
+    font-size:14px !important;
+    padding-left: 8px !important;
+    padding-bottom: 13px !important;
+    padding-top:13px !important;
+}
+.rcw-client{
+    border-radius: 10% / 50% !important;
+}
+.rcw-message{
+    font-size:12px !important;
+}
+.rcw-message-text p{
+    margin:0 !important
+}
+.rcw-sender{
+    height:40px !important
+}
+.rcw-new-message{
+    font-size:14px !important
+}
+.rcw-widget-container{
+    z-index: 2000 !important;
+}
+.members-style{
+    color: #2962ff;
+    font-weight: bold;
+}
+
+.members-style p {
+    margin-bottom: 0.5rem;
+}
+
